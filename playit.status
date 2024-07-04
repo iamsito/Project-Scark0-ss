@@ -1356,3 +1356,10 @@ Too many agents: https://playit.gg/account/agents
 TUNNELS
 models-anthropology.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 others-salem.gl.at.ply.gg:3568 => 127.0.0.1:3548 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720122860828 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+models-anthropology.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+others-salem.gl.at.ply.gg:3568 => 127.0.0.1:3548 (proto: Udp, port count: 1)
